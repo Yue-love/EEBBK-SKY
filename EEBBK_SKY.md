@@ -16,7 +16,7 @@ https://github.com/Yue-love/QQ_Group/blob/main/QQ_Group.md# EEBBK_SKY
 - [S3 ProW](S3ProW.md)
 - [S3 Pros](S3Pros.md)
 - [S5](S5.md)
-- [S6](S6.md)
+- [S6](https://github.com/Yue-love/EEBBK-S6/blob/main/eebbk-S6.md)
 - [S1A](S1A.md)
 - [S1W](S1W.md)
 - [H8A](H8A.md)
