@@ -1,4 +1,3 @@
-https://github.com/Yue-love/QQ_Group/blob/main/QQ_Group.md# EEBBK_SKY
 步步高家教机官改包
 
 # 步步高家教机官改一键刷入工具
