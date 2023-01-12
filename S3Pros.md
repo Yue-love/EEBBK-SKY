@@ -4,5 +4,5 @@
 - 精简家长管理/系统升级/大部分无用APP
   
 ## 下载地址：
-[点我下载]
+- [点我下载](https://www.123pan.com/s/PXzuVv-JcuHd)
   
