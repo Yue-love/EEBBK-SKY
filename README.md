@@ -1,7 +1,7 @@
 步步高家教机官改包
 
 # 步步高家教机官改一键刷入工具
-## [QQ群](https://github.com/Yue-love/QQ_Group/blob/main/QQ_Group.md)
+## [QQ群](https://jq.qq.com/?_wv=1027&k=XEqlOslZ)
 ## 关于步步高家教机解除第三方软件安装限制免责声明
 *协议更新日期：2022年2月6日*
 1. 所有已经解除第三方软件安装限制的家教机都可以恢复到解除限制前之状态。
@@ -10,13 +10,5 @@
 4. 如果您使用本工具包对家教机进行解除第三方软件安装限制之操作，即默认您同意本《免责声明》。
 ### [屏蔽系统更新＆家长管理教程](https://kdocs.cn/l/cune7WAK6oZX)
 ## 支持机型
-- [H8SM H9A H9S S1Pro](MT8167.md)
-- [S3 Pro](S3Pro.md)
-- [S3 ProW](S3ProW.md)
 - [S3 Pros](S3Pros.md)
-- [S5](S5.md)
-- [S6](https://github.com/Yue-love/EEBBK-S6/blob/main/eebbk-S6.md)
-- [S1A](S1A.md)
-- [S1W](S1W.md)
-- [H8A](H8A.md)
-- [H20](H20.md)
+
